@@ -1,0 +1,4 @@
+module JustUI {
+    header "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/JustUI-Swift.h"
+    requires objc
+}

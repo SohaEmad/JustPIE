@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/master.swiftdeps"
+  },
+  "/Users/soha.ahmed/exp/JustUI/Sources/JustUI/JustUI.swift": {
+    "dependencies": "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/JustUI.d",
+    "object": "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/JustUI.swift.o",
+    "swiftmodule": "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/JustUI~partial.swiftmodule",
+    "swift-dependencies": "/Users/soha.ahmed/exp/JustUI/.build/index-build/arm64-apple-macosx/debug/JustUI.build/JustUI.swiftdeps"
+  }
+}
